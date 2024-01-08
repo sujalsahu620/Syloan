@@ -1,0 +1,45 @@
+
+/* EmiCalculator.module.css */
+
+.emiCalculator {
+    width: 300px;
+    margin: 20px auto;
+  }
+  
+  .labelInputContainer {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 15px;
+  }
+  
+ .emiCalculator label {
+    margin-bottom: 5px;
+  }
+  
+ .emiCalculator input {
+    padding: 8px;
+    width: 100%;
+    box-sizing: border-box;
+    margin-top: 5px;
+    border-radius: 8px;
+    border: none;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  }
+  
+ .emiCalculator button {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+ .emiCalculator button:hover {
+    background-color: #45a049;
+  }
+  
+  .emiResult {
+    margin-top: 15px;
+  }
+  

@@ -1,0 +1,44 @@
+{
+    "Loans":[
+        {
+            "id": 1,
+            "Bank": "HDFC",
+            "Catergory": "Home Loan",
+            "Tenure": 20,
+            "Interest": 11,
+            "Amount": 50000000
+        },
+        {
+            "id": 2,
+            "Bank": "ICICI",
+            "Catergory": "Home Loan",
+            "Tenure": 15 ,
+            "Interest":  10,
+            "Amount": 40000000
+        },
+        {
+            "id": 3,
+            "Bank": "Kotak Mahindra",
+            "Catergory": "Home Loan",
+            "Tenure": 20,
+            "Interest":  11,
+            "Amount": 45000000
+        },
+        {
+            "id":4,
+            "Bank": "IDFC",
+            "Catergory": "Home Loan",
+            "Tenure": 20,
+            "Interest":  9,
+            "Amount": 30000000
+        },
+        {
+            "id":5,
+            "Bank": "SBI",
+            "Catergory": "Home Loan",
+            "Tenure":20,
+            "Interest": 12,
+            "Amount": 60000000
+        }
+    ]
+}

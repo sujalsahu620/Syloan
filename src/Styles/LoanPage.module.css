@@ -1,0 +1,11 @@
+/* #LoanPage > #top_part{
+    display: flex;
+} */
+#top_part>div>select{
+    width: 170px;
+    position: relative;
+    background-color: #53DFFE;
+    padding: 4px;
+    margin: 10px;
+    border-radius: 8px;
+}
