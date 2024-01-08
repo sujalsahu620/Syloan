@@ -1,13 +1,14 @@
 import styles from "../Styles/LoanCard.module.css"
 import React from 'react';
-import hdfc from "../Images/Loan_Page_Images/HDFC-Bank.png"
 import { useNavigate } from "react-router-dom";
 export const LoanCard = ({e}) => {
 
     const navigate = useNavigate();
     return(
     <div>
+        
          <div id={styles.LoanCard} >
+         <h1>SyLoan</h1>
             <table>
                 <tr>
                     <td id={styles.td_grey}>Bank</td>

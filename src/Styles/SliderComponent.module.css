@@ -19,3 +19,7 @@
     width: 108%;
     margin-right: 10px;
   }
+  .container>p{
+    font-size: 20px;
+    font-weight: 300;
+  }

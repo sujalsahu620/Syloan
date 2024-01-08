@@ -18,7 +18,7 @@ setSliderValue(minValue)
 
   return (
     <div className={styles.container}>
-      <p>Select Amount </p>
+      <p>Select Amount : </p>
       <label>
         <input
           type="range"
