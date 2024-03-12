@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "bank": "hdfc",
+    "category": "home",
+    "tenure": 20,
+    "interest": 11,
+    "amount": 50000000
+  },
+  {
+    "id": 2,
+    "bank": "icici",
+    "category": "home",
+    "tenure": 15,
+    "interest": 10,
+    "amount": 40000000
+  },
+  {
+    "id": 3,
+    "bank": "uco",
+    "category": "home",
+    "tenure": 20,
+    "interest": 11,
+    "amount": 45000000
+  },
+  {
+    "id": 4,
+    "bank": "idfc",
+    "category": "home",
+    "tenure": 20,
+    "interest": 9,
+    "amount": 30000000
+  },
+  {
+    "id": 5,
+    "bank": "sbi",
+    "category": "home",
+    "tenure": 20,
+    "interest": 12,
+    "amount": 60000000
+  },
+  {
+    "id": 6,
+    "bank": "hdfc",
+    "category": "car",
+    "tenure": 4,
+    "interest": 8,
+    "amount": 1000000
+  },
+  {
+    "id": 7,
+    "bank": "icici",
+    "category": "car",
+    "tenure": 5,
+    "interest": 9,
+    "amount": 2000000
+  },
+  {
+    "id": 8,
+    "bank": "uco",
+    "category": "car",
+    "tenure": 6,
+    "interest": 10,
+    "amount": 3000000
+  },
+  {
+    "id": 9,
+    "bank": "idfc",
+    "category": "car",
+    "tenure": 7,
+    "interest": 11,
+    "amount": 4000000
+  },
+  {
+    "id": 10,
+    "bank": "sbi",
+    "category": "car",
+    "tenure": 7,
+    "interest": 12,
+    "amount": 5000000
+  },
+  {
+    "id": 11,
+    "bank": "hdfc",
+    "category": "personal",
+    "tenure": 6,
+    "interest": 8,
+    "amount": 5000000
+  },
+  {
+    "id": 12,
+    "bank": "icici",
+    "category": "personal",
+    "tenure": 7,
+    "interest": 9,
+    "amount": 6000000
+  },
+  {
+    "id": 13,
+    "bank": "uco",
+    "category": "personal",
+    "tenure": 8,
+    "interest": 10,
+    "amount": 7000000
+  },
+  {
+    "id": 14,
+    "bank": "idfc",
+    "category": "personal",
+    "tenure": 9,
+    "interest": 11,
+    "amount": 8000000
+  },
+  {
+    "id": 15,
+    "bank": "sbi",
+    "category": "personal",
+    "tenure": 10,
+    "interest": 12,
+    "amount": 10000000
+  },
+  {
+    "id": 16,
+    "bank": "hdfc",
+    "category": "education",
+    "tenure": 5,
+    "interest": 7,
+    "amount": 5000000
+  },
+  {
+    "id": 17,
+    "bank": "icici",
+    "category": "education",
+    "tenure": 5,
+    "interest": 8,
+    "amount": 6000000
+  },
+  {
+    "id": 18,
+    "bank": "uco",
+    "category": "education",
+    "tenure": 6,
+    "interest": 9,
+    "amount": 7000000
+  },
+  {
+    "id": 19,
+    "bank": "idfc",
+    "category": "education",
+    "tenure": 8,
+    "interest": 10,
+    "amount": 8000000
+  },
+  {
+    "id": 20,
+    "bank": "sbi",
+    "category": "education",
+    "tenure": 10,
+    "interest": 11,
+    "amount": 10000000
+  },
+  {
+    "id": 21,
+    "bank": "hdfc",
+    "category": "business",
+    "tenure": 6,
+    "interest": 9,
+    "amount": 5000000
+  },
+  {
+    "id": 22,
+    "bank": "icici",
+    "category": "business",
+    "tenure": 7,
+    "interest": 10,
+    "amount": 6000000
+  },
+  {
+    "id": 23,
+    "bank": "uco",
+    "category": "business",
+    "tenure": 8,
+    "interest": 11,
+    "amount": 7000000
+  },
+  {
+    "id": 24,
+    "bank": "idfc",
+    "category": "business",
+    "tenure": 9,
+    "interest": 12,
+    "amount": 8000000
+  },
+  {
+    "id": 25,
+    "bank": "sbi",
+    "category": "business",
+    "tenure": 10,
+    "interest": 13,
+    "amount": 10000000
+  },
+  {
+    "id": 26,
+    "bank": "boi",
+    "category": "car",
+    "tenure": 6,
+    "interest": 10,
+    "amount": 2500000
+  },
+  {
+    "id": 27,
+    "bank": "boi",
+    "category": "home",
+    "tenure": 20,
+    "interest": 12,
+    "amount": 30000000
+  },
+  {
+    "id": 28,
+    "bank": "boi",
+    "category": "personal",
+    "tenure": 5,
+    "interest": 13,
+    "amount": 5000000
+  },
+  {
+    "id": 29,
+    "bank": "boi",
+    "category": "business",
+    "tenure": 10,
+    "interest": 13,
+    "amount": 20000000
+  },
+  {
+    "id": 30,
+    "bank": "boi",
+    "category": "education",
+    "tenure": 5,
+    "interest": 12,
+    "amount": 1500000
+  }
+]
